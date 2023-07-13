@@ -1,0 +1,117 @@
+{
+    "states": [
+      {
+        "state": "Andhra Pradesh",
+        "primary_language": "Telugu"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "primary_language": "English"
+      },
+      {
+        "state": "Assam",
+        "primary_language": "Assamese"
+      },
+      {
+        "state": "Bihar",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "Chhattisgarh",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "Goa",
+        "primary_language": "Konkani"
+      },
+      {
+        "state": "Gujarat",
+        "primary_language": "Gujarati"
+      },
+      {
+        "state": "Haryana",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "Himachal Pradesh",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "Jharkhand",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "Karnataka",
+        "primary_language": "Kannada"
+      },
+      {
+        "state": "Kerala",
+        "primary_language": "Malayalam"
+      },
+      {
+        "state": "Madhya Pradesh",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "Maharashtra",
+        "primary_language": "Marathi"
+      },
+      {
+        "state": "Manipur",
+        "primary_language": "Manipuri"
+      },
+      {
+        "state": "Meghalaya",
+        "primary_language": "English"
+      },
+      {
+        "state": "Mizoram",
+        "primary_language": "Mizo"
+      },
+      {
+        "state": "Nagaland",
+        "primary_language": "English"
+      },
+      {
+        "state": "Odisha",
+        "primary_language": "Odia"
+      },
+      {
+        "state": "Punjab",
+        "primary_language": "Punjabi"
+      },
+      {
+        "state": "Rajasthan",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "Sikkim",
+        "primary_language": "Nepali"
+      },
+      {
+        "state": "Tamil Nadu",
+        "primary_language": "Tamil"
+      },
+      {
+        "state": "Telangana",
+        "primary_language": "Telugu"
+      },
+      {
+        "state": "Tripura",
+        "primary_language": "Bengali"
+      },
+      {
+        "state": "Uttar Pradesh",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "Uttarakhand",
+        "primary_language": "Hindi"
+      },
+      {
+        "state": "West Bengal",
+        "primary_language": "Bengali"
+      }
+    ]
+  }
+  

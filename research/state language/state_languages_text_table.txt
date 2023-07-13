@@ -1,0 +1,32 @@
++-------------------+-----------------+
+|      State        | Primary Language |
++-------------------+-----------------+
+| Andhra Pradesh    |     Telugu      |
+| Arunachal Pradesh |     English     |
+|       Assam       |    Assamese     |
+|       Bihar       |      Hindi      |
+|    Chhattisgarh   |      Hindi      |
+|        Goa        |     Konkani     |
+|      Gujarat      |    Gujarati     |
+|      Haryana      |      Hindi      |
+| Himachal Pradesh  |      Hindi      |
+|     Jharkhand     |      Hindi      |
+|     Karnataka     |     Kannada     |
+|      Kerala       |    Malayalam    |
+|  Madhya Pradesh   |      Hindi      |
+|    Maharashtra    |     Marathi     |
+|      Manipur      |    Manipuri     |
+|     Meghalaya     |     English     |
+|      Mizoram      |      Mizo       |
+|     Nagaland      |     English     |
+|      Odisha       |      Odia       |
+|      Punjab       |    Punjabi      |
+|     Rajasthan     |      Hindi      |
+|      Sikkim       |     Nepali      |
+|    Tamil Nadu     |     Tamil       |
+|     Telangana     |     Telugu      |
+|      Tripura      |     Bengali     |
+|   Uttar Pradesh   |      Hindi      |
+|    Uttarakhand    |      Hindi      |
+|    West Bengal    |     Bengali     |
++-------------------+-----------------+

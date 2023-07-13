@@ -1,0 +1,23 @@
+find the primary languauge of each indian state
+csv, json, table format
+
+---
+find out the unique primary languages in india 
+ary_languages_state.py
+Unique Languages:
+English
+Malayalam
+Marathi
+Hindi
+Manipuri
+Nepali
+Odia
+Punjabi
+Konkani
+Bengali
+Mizo
+Gujarati
+Telugu
+Tamil
+Kannada
+Assamese
